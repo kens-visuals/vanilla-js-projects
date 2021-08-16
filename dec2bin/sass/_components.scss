@@ -1,0 +1,67 @@
+.heading {
+  text-transform: uppercase;
+  font-style: normal;
+  font-weight: normal;
+
+  &__primary {
+    font-family: $font-primary;
+    font-size: 6rem;
+    line-height: 6.5rem;
+    letter-spacing: 0.3rem;
+    margin-left: 0.3rem;
+
+    &--dec {
+      color: $color-dark;
+    }
+
+    &--two {
+      color: $color-grey;
+    }
+
+    &--bin {
+      color: $color-green;
+    }
+  }
+
+  &__secondary {
+    font-family: $font-secondary;
+    font-size: 26rem;
+    line-height: 34rem;
+    width: 40rem;
+    height: 342px;
+
+    &--light {
+      color: $color-light;
+      letter-spacing: 1rem;
+    }
+
+    &--dark {
+      color: $color-dark;
+    }
+  }
+
+  &__tertiary {
+    font-family: $font-primary;
+    text-align: center;
+    color: $color-light;
+    font-size: 1.4rem;
+    line-height: 1.5rem;
+    margin-top: 3rem;
+
+    &--link:link,
+    &--link:visited {
+      color: $color-light;
+      transition: all 0.2s;
+    }
+
+    &--link:hover,
+    &--link:active {
+      color: $color-green;
+    }
+  }
+}
+
+.form {
+  &--input {
+  }
+}

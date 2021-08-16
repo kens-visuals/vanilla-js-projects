@@ -1,5 +1,16 @@
 .main {
-  background-image: $background-color;
-  height: 100vh;
-  width: 100%;
+  margin: auto 10rem;
+  max-width: 100%;
+}
+
+.section__decimal {
+  display: flex;
+  align-items: center;
+  gap: 10rem;
+}
+
+.section__binary {
+  display: flex;
+  align-items: center;
+  gap: 10rem;
 }
