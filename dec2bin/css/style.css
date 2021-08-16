@@ -12,21 +12,19 @@ body {
   box-sizing: border-box;
   background-image: linear-gradient(180deg, #ced6d5 50%, #2f2e41 50%);
   height: 100vh;
-  width: 100%; }
+  max-width: 100%; }
 
 .main {
   margin: auto 10rem;
   max-width: 100%; }
 
-.section__decimal {
+.section {
   display: flex;
   align-items: center;
-  gap: 10rem; }
-
-.section__binary {
-  display: flex;
-  align-items: center;
-  gap: 10rem; }
+  gap: 10rem;
+  width: 40rem;
+  height: 34.2rem;
+  position: relative; }
 
 .heading {
   text-transform: uppercase;
@@ -49,12 +47,12 @@ body {
     font-size: 26rem;
     line-height: 34rem;
     width: 40rem;
-    height: 342px; }
+    height: 34.2rem; }
     .heading__secondary--light {
-      color: #ced6d5;
-      letter-spacing: 1rem; }
+      color: #ced6d5; }
     .heading__secondary--dark {
-      color: #2f2e41; }
+      color: #2f2e41;
+      letter-spacing: 1rem; }
   .heading__tertiary {
     font-family: "Squada One", cursive;
     text-align: center;
@@ -64,6 +62,27 @@ body {
     margin-top: 3rem; }
     .heading__tertiary--link:link, .heading__tertiary--link:visited {
       color: #ced6d5;
-      transition: all 0.2s; }
+      transition: all 0.3s; }
     .heading__tertiary--link:hover, .heading__tertiary--link:active {
       color: #00bfa6; }
+
+.form--input {
+  width: 75rem;
+  height: 19.5rem;
+  font-size: 12rem;
+  font-family: "Squada One", cursive;
+  color: #2f2e41;
+  margin-bottom: 1.5rem;
+  padding-left: 5rem;
+  line-height: 12.7rem;
+  letter-spacing: 0.04em;
+  background: #00bfa6;
+  border: 0.5rem solid #2f2e41;
+  outline: none; }
+  .form--input:focus {
+    box-shadow: -22.75px 22.75px 0px 0.9px rgba(0, 191, 166, 0.4);
+    transition: box-shadow 0.3s ease-in-out; }
+
+.active {
+  box-shadow: -22.75px 22.75px 0px 0.9px rgba(0, 191, 166, 0.4);
+  transition: box-shadow 0.3s ease-in-out; }

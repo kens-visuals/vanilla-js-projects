@@ -28,15 +28,15 @@
     font-size: 26rem;
     line-height: 34rem;
     width: 40rem;
-    height: 342px;
+    height: 34.2rem;
 
     &--light {
       color: $color-light;
-      letter-spacing: 1rem;
     }
 
     &--dark {
       color: $color-dark;
+      letter-spacing: 1rem;
     }
   }
 
@@ -51,7 +51,7 @@
     &--link:link,
     &--link:visited {
       color: $color-light;
-      transition: all 0.2s;
+      transition: all 0.3s;
     }
 
     &--link:hover,
@@ -63,5 +63,27 @@
 
 .form {
   &--input {
+    width: 75rem;
+    height: 19.5rem;
+    font-size: 12rem;
+    font-family: $font-primary;
+    color: $color-dark;
+    margin-bottom: 1.5rem;
+    padding-left: 5rem;
+    line-height: 12.7rem;
+    letter-spacing: 0.04em;
+    background: #00bfa6;
+    border: 0.5rem solid #2f2e41;
+    outline: none;
+
+    &:focus {
+      box-shadow: -22.75px 22.75px 0px 0.9px rgba(0, 191, 166, 0.4);
+      transition: box-shadow 0.3s ease-in-out;
+    }
   }
+}
+
+.active {
+  box-shadow: -22.75px 22.75px 0px 0.9px rgba(0, 191, 166, 0.4);
+  transition: box-shadow 0.3s ease-in-out;
 }
