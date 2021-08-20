@@ -1,19 +1,18 @@
 .main {
-  margin: auto 10rem;
-  max-width: 100%;
+  margin: 0 auto;
+  max-width: 85%;
 }
 
 .section {
   display: flex;
   align-items: center;
   gap: 10rem;
-  width: 40rem;
+  max-width: 40rem;
   height: 34.2rem;
-  position: relative;
 }
 
-.section__decimal {
-}
+// .section__decimal {
+// }
 
-.section__binary {
-}
+// .section__binary {
+// }
