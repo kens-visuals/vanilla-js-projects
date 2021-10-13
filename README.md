@@ -1,7 +1,8 @@
-| Table of Contents                                       |
-| ------------------------------------------------------- |
-| [Article Preview Component](#article-preview-component) |
-| [Base Apparel Coming Soon](#base-apparel-coming-soon)   |
+| Table of Contents                                                     |
+| --------------------------------------------------------------------- |
+| [Article Preview Component](#article-preview-component)               |
+| [Base Apparel Coming Soon](#base-apparel-coming-soon)                 |
+| [Intro Component With Signup Form](#intro-component-with-signup-form) |
 
 # Vanilla JS Projects
 
@@ -20,3 +21,11 @@
 - Live Site URL: [https://kens-visuals.github.io/base-apparel-coming-soon/](https://kens-visuals.github.io/base-apparel-coming-soon/)
 - Repository URL: [https://github.com/kens-visuals/base-apparel-coming-soon](https://github.com/kens-visuals/base-apparel-coming-soon)
 - Solution URL: [https://www.frontendmentor.io/solutions/base-apparel-coming-soon-with-vanilla-js-scss-and-bem-mbo9r7UHp](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-with-vanilla-js-scss-and-bem-mbo9r7UHp)
+
+## Intro Component With Signup Form
+
+![screenshot](./screenshots/intro-component-with-signup-form-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/intro-component-with-signup-form/](https://kens-visuals.github.io/intro-component-with-signup-form/)
+- Repository URL: [https://github.com/kens-visuals/intro-component-with-signup-form](https://github.com/kens-visuals/intro-component-with-signup-form)
+- Solution URL: [https://www.frontendmentor.io/solutions/intro-comp-with-signup-form-built-with-scss-bem-and-vanilla-js-aIoqL7r_n](https://www.frontendmentor.io/solutions/intro-comp-with-signup-form-built-with-scss-bem-and-vanilla-js-aIoqL7r_n)
