@@ -3,6 +3,7 @@
 | [Article Preview Component](#article-preview-component)               |
 | [Base Apparel Coming Soon](#base-apparel-coming-soon)                 |
 | [Intro Component With Signup Form](#intro-component-with-signup-form) |
+| [Ping Coming Soon Page](#ping-coming-soon-page)                       |
 
 # Vanilla JS Projects
 
@@ -29,3 +30,11 @@
 - Live Site URL: [https://kens-visuals.github.io/intro-component-with-signup-form/](https://kens-visuals.github.io/intro-component-with-signup-form/)
 - Repository URL: [https://github.com/kens-visuals/intro-component-with-signup-form](https://github.com/kens-visuals/intro-component-with-signup-form)
 - Solution URL: [https://www.frontendmentor.io/solutions/intro-comp-with-signup-form-built-with-scss-bem-and-vanilla-js-aIoqL7r_n](https://www.frontendmentor.io/solutions/intro-comp-with-signup-form-built-with-scss-bem-and-vanilla-js-aIoqL7r_n)
+
+## Ping Coming Soon Page
+
+![screenshot](./screenshots/ping-coming-soon-page-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/ping-coming-soon-page/](https://kens-visuals.github.io/ping-coming-soon-page/)
+- Repository URL: [https://github.com/kens-visuals/ping-coming-soon-page](https://github.com/kens-visuals/ping-coming-soon-page)
+- Solution URL: [https://www.frontendmentor.io/solutions/ping-coming-soon-page-with-bem-scss-and-vanilla-js-Zoi6yA_6s](https://www.frontendmentor.io/solutions/ping-coming-soon-page-with-bem-scss-and-vanilla-js-Zoi6yA_6s)
