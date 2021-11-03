@@ -4,6 +4,7 @@
 | [Base Apparel Coming Soon](#base-apparel-coming-soon)                 |
 | [Intro Component With Signup Form](#intro-component-with-signup-form) |
 | [Ping Coming Soon Page](#ping-coming-soon-page)                       |
+| [Time Tracking Dashboard](#time-tracking-dashboard)                   |
 
 # Vanilla JS Projects
 
@@ -38,3 +39,11 @@
 - Live Site URL: [https://kens-visuals.github.io/ping-coming-soon-page/](https://kens-visuals.github.io/ping-coming-soon-page/)
 - Repository URL: [https://github.com/kens-visuals/ping-coming-soon-page](https://github.com/kens-visuals/ping-coming-soon-page)
 - Solution URL: [https://www.frontendmentor.io/solutions/ping-coming-soon-page-with-bem-scss-and-vanilla-js-Zoi6yA_6s](https://www.frontendmentor.io/solutions/ping-coming-soon-page-with-bem-scss-and-vanilla-js-Zoi6yA_6s)
+
+## Time Tracking Dashboard
+
+![screenshot](./screenshots/time-tracking-dashboard-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/time-tracking-dashboard/](https://kens-visuals.github.io/time-tracking-dashboard/)
+- Repository URL: [https://github.com/kens-visuals/time-tracking-dashboard](https://github.com/kens-visuals/time-tracking-dashboard)
+- Solution URL: [https://www.frontendmentor.io/solutions/time-tracking-dashboard-with-bem-scss-and-vanilla-js--5P53ADEz](https://www.frontendmentor.io/solutions/time-tracking-dashboard-with-bem-scss-and-vanilla-js--5P53ADEz)
