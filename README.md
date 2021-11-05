@@ -5,6 +5,7 @@
 | [Intro Component With Signup Form](#intro-component-with-signup-form) |
 | [Ping Coming Soon Page](#ping-coming-soon-page)                       |
 | [Time Tracking Dashboard](#time-tracking-dashboard)                   |
+| [Tip Calculator App](#tip-calculator-app)                             |
 
 # Vanilla JS Projects
 
@@ -47,3 +48,11 @@
 - Live Site URL: [https://kens-visuals.github.io/time-tracking-dashboard/](https://kens-visuals.github.io/time-tracking-dashboard/)
 - Repository URL: [https://github.com/kens-visuals/time-tracking-dashboard](https://github.com/kens-visuals/time-tracking-dashboard)
 - Solution URL: [https://www.frontendmentor.io/solutions/time-tracking-dashboard-with-bem-scss-and-vanilla-js--5P53ADEz](https://www.frontendmentor.io/solutions/time-tracking-dashboard-with-bem-scss-and-vanilla-js--5P53ADEz)
+
+## Tip Calculator App
+
+![screenshot](./screenshots/tip-calculator-app-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/tip-calculator-app/](https://kens-visuals.github.io/tip-calculator-app/)
+- Repository URL: [https://github.com/kens-visuals/tip-calculator-app](https://github.com/kens-visuals/tip-calculator-app)
+- Solution URL: [https://www.frontendmentor.io/solutions/splitter-tip-calculator-app-with-vanilla-js-scss-and-bem-4c6nu5szo](https://www.frontendmentor.io/solutions/splitter-tip-calculator-app-with-vanilla-js-scss-and-bem-4c6nu5szo)
