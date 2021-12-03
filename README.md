@@ -7,6 +7,7 @@
 | [Time Tracking Dashboard](#time-tracking-dashboard)                   |
 | [Tip Calculator App](#tip-calculator-app)                             |
 | [Crowdfunding Product Page](#crowdfunding-product-page)               |
+| [Interactive Pricing Component](#interactive-pricing-component)       |
 
 # Vanilla JS Projects
 
@@ -65,3 +66,11 @@
 - Live Site URL: [https://kens-crowdfund.netlify.app/](https://kens-crowdfund.netlify.app/)
 - Repository URL: [https://github.com/kens-visuals/crowdfunding-product-page](https://github.com/kens-visuals/crowdfunding-product-page)
 - Solution URL: [https://www.frontendmentor.io/solutions/crowdfunding-product-page-with-vanilla-js-scss-and-bem-TWbk3JbR1](https://www.frontendmentor.io/solutions/crowdfunding-product-page-with-vanilla-js-scss-and-bem-TWbk3JbR1)
+
+## Interactive Pricing Component
+
+![screenshot](./screenshots/interactive-pricing-component-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/interactive-pricing-component/](https://kens-visuals.github.io/interactive-pricing-component/)
+- Repository URL: [https://github.com/kens-visuals/interactive-pricing-component](https://github.com/kens-visuals/interactive-pricing-component)
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-pricing-component-with-vanilla-js-scss-and-bem-TKxK-gb_9](https://www.frontendmentor.io/solutions/interactive-pricing-component-with-vanilla-js-scss-and-bem-TKxK-gb_9)
