@@ -8,6 +8,8 @@
 | [Tip Calculator App](#tip-calculator-app)                             |
 | [Crowdfunding Product Page](#crowdfunding-product-page)               |
 | [Interactive Pricing Component](#interactive-pricing-component)       |
+| [Insure Landing Page](#insure-landing-page)                           |
+| [Pricing Component with Toggle](#pricing-component-with-toggle)       |
 
 # Vanilla JS Projects
 
@@ -74,3 +76,19 @@
 - Live Site URL: [https://kens-visuals.github.io/interactive-pricing-component/](https://kens-visuals.github.io/interactive-pricing-component/)
 - Repository URL: [https://github.com/kens-visuals/interactive-pricing-component](https://github.com/kens-visuals/interactive-pricing-component)
 - Solution URL: [https://www.frontendmentor.io/solutions/interactive-pricing-component-with-vanilla-js-scss-and-bem-TKxK-gb_9](https://www.frontendmentor.io/solutions/interactive-pricing-component-with-vanilla-js-scss-and-bem-TKxK-gb_9)
+
+## Insure Landing Page
+
+![screenshot](./screenshots/insure-landing-page-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/insure-landing-page/](https://kens-visuals.github.io/insure-landing-page/)
+- Repository URL: [https://github.com/kens-visuals/insure-landing-page](https://github.com/kens-visuals/insure-landing-page)
+- Solution URL: [https://www.frontendmentor.io/solutions/insure-landing-page-with-scss-bem-css-animations-and-vanilla-js-tlFb95NjO](https://www.frontendmentor.io/solutions/insure-landing-page-with-scss-bem-css-animations-and-vanilla-js-tlFb95NjO)
+
+## Pricing Component with Toggle
+
+![screenshot](./screenshots/pricing-component-with-toggle-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/pricing-component-with-toggle/](https://kens-visuals.github.io/pricing-component-with-toggle/)
+- Repository URL: [https://github.com/kens-visuals/pricing-component-with-toggle](https://github.com/kens-visuals/pricing-component-with-toggle)
+- Solution URL: [https://www.frontendmentor.io/solutions/pricing-component-with-toggle-with-vanilla-js-scss-and-bem-ylbwbfjvO](https://www.frontendmentor.io/solutions/pricing-component-with-toggle-with-vanilla-js-scss-and-bem-ylbwbfjvO)
