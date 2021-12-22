@@ -10,6 +10,7 @@
 | [Interactive Pricing Component](#interactive-pricing-component)       |
 | [Insure Landing Page](#insure-landing-page)                           |
 | [Pricing Component with Toggle](#pricing-component-with-toggle)       |
+| [Clipboard Landing Page](#clipboard-landing-page)                     |
 
 # Vanilla JS Projects
 
@@ -92,3 +93,11 @@
 - Live Site URL: [https://kens-visuals.github.io/pricing-component-with-toggle/](https://kens-visuals.github.io/pricing-component-with-toggle/)
 - Repository URL: [https://github.com/kens-visuals/pricing-component-with-toggle](https://github.com/kens-visuals/pricing-component-with-toggle)
 - Solution URL: [https://www.frontendmentor.io/solutions/pricing-component-with-toggle-with-vanilla-js-scss-and-bem-ylbwbfjvO](https://www.frontendmentor.io/solutions/pricing-component-with-toggle-with-vanilla-js-scss-and-bem-ylbwbfjvO)
+
+## Clipboard Landing Page
+
+![screenshot](./screenshots/clipboard-landing-page-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/clipboard-landing-page/](https://kens-visuals.github.io/clipboard-landing-page/)
+- Repository URL: [https://github.com/kens-visuals/clipboard-landing-page](https://github.com/kens-visuals/clipboard-landing-page)
+- Solution URL: [https://www.frontendmentor.io/solutions/clipboard-landing-page-with-scss-bem-and-vanilla-js-5i5L0KYqw](https://www.frontendmentor.io/solutions/clipboard-landing-page-with-scss-bem-and-vanilla-js-5i5L0KYqw)
